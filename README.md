@@ -33,9 +33,3 @@
 - **Portfolio:** [ohrion0320.github.io](https://ohrion0320.github.io/ohrion.github.io/)
 
 ---
-    
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohrion0320&show_icons=true&theme=transparent" alt="Seung Hyun's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohrion0320&layout=compact&theme=transparent" alt="Top Languages" height="150"/>
-</p>
