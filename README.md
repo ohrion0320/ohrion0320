@@ -30,7 +30,7 @@
 - 한국사능력검정시험 1급
 
 ### 🌐 Connect with me
-- **Portfolio:** [ohrion0320.github.io]([https://ohrion0320.github.io](https://ohrion0320.github.io/ohrion.github.io/#skills))
+- **Portfolio:** [ohrion0320.github.io](https://ohrion0320.github.io/ohrion.github.io/)
 
 ---
     
